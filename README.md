@@ -28,6 +28,13 @@
 
 </div>
 
+---
+
+<img src="movie_detail.jpg" width="150" /> <img src="home.jpg" width="150" /> <img src="search.jpg" width="150" /> <img src="watchlist.jpg" width="150" />
+
+
+---
+
 ## 🚀 Key Features
 
 - **Multi-Platform Support**: Tailored experiences for Mobile and **Android TV** devices with D-pad navigation support.
