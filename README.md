@@ -28,18 +28,6 @@
 
 </div>
 
----
-
-## 📅 گزارشات هفتگی (Weekly Reports)
-
-| بازه زمانی (Date Range) | گزارش کار (Report Link) | تعداد کامیت‌ها (Commits) |
-| :--- | :--- | :--- |
-| ۲۱ الی ۲۷ شهریور ۱۴۰۵ (12 - 17 Sep 2026) | [مشاهده گزارش (TXT)](./weekly_report.txt) | ۵۵ کامیت |
-| ۲۸ شهریور الی ۳ مهر ۱۴۰۵ (18 - 24 Sep 2026) | [مشاهده گزارش (TXT)](./weekly_report_28_shahrivar.txt) | ۹۲ کامیت |
-| ۴ الی ۱۶ مهر ۱۴۰۵ (25 Sep - 08 Oct 2026) | [مشاهده گزارش (TXT)](./weekly_report_16_mehr.txt) | ۲۲۷ کامیت |
-
----
-
 ## 🚀 Key Features
 
 - **Multi-Platform Support**: Tailored experiences for Mobile and **Android TV** devices with D-pad navigation support.
