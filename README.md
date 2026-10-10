@@ -9,8 +9,8 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-Official_Site-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ronakfilm.com)
-[![Cafe Bazaar](https://img.shields.io/badge/Cafe_Bazaar-دانلود_از_کافه‌بازار-119143?style=for-the-badge&logo=android&logoColor=white)](https://cafebazaar.ir/app/com.ronak.ronakfilm)
-[![Myket](https://img.shields.io/badge/Myket-دانلود_از_مایکت-0083CA?style=for-the-badge&logo=googleplay&logoColor=white)](https://myket.ir/app/com.ronak.ronakfilm)
+[![Cafe Bazaar](https://img.shields.io/badge/Cafe_Bazaar-Download-119143?style=for-the-badge&logo=android&logoColor=white)](https://cafebazaar.ir/app/com.ronak.ronakfilm)
+[![Myket](https://img.shields.io/badge/Myket-Download-0083CA?style=for-the-badge&logo=googleplay&logoColor=white)](https://myket.ir/app/com.ronak.ronakfilm)
 
 </div>
 
