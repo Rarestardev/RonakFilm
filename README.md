@@ -119,6 +119,28 @@ ADIVERY_APP_ID=your_adivery_app_id
 
 ---
 
+## 🤝 Project Collaborators
+
+Meet the team behind **RonakFilm**, developed by **Ertebat Gostaran Ronak Company**.
+
+### ⚙️ Backend Developer
+**[Sajjad Khalafi](https://github.com/SajjadKhalafi)** · [@SajjadKhalafi](https://github.com/SajjadKhalafi)
+
+Responsible for backend development and API services.
+
+### 🚀 DevOps Engineer
+**[muerfox](https://github.com/muerfox)** · [@muerfox](https://github.com/muerfox)
+
+Responsible for infrastructure, deployment, and DevOps operations.
+
+---
+
+<p align="center">
+  <i>Building and delivering RonakFilm together.</i>
+</p>
+
+---
+
 ## 📄 License & Ownership (لایسنس و مالکیت معنوی)
 
 تمامی حقوق مادی و معنوی این پروژه متعلق به **شرکت ارتباط گستران روناک** می‌باشد.
